@@ -24,6 +24,8 @@
 - [Running documentation locally](#running-documentation-locally)
 - [Copyright and license](#copyright-and-license)
 - [From](#from)
+- [Denote](#denote)
+
 
 # Running documentation locally
 
@@ -46,3 +48,6 @@ Code and documentation copyright 2011-2018 [Bootstrap Authors](https://github.co
 ## From
 
 * <https://github.com/twbs/bootstrap>
+
+
+## [Denote](http://webdocument.marstau.com/docs/4.1/about/denote/)
