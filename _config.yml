@@ -14,7 +14,7 @@ destination:    ./_gh_pages
 host:           0.0.0.0
 port:           9001
 baseurl:        ""
-url:            "https://getbootstrap.com"
+url:            "https://webdocument.marstau.com"
 encoding:       UTF-8
 exclude:
   - .git/
@@ -56,10 +56,10 @@ current_ruby_version: 4.1.1
 docs_version:         4.1
 repo:                 "https://github.com/marstau/WebDocument"
 slack:                "https://bootstrap-slack.herokuapp.com"
-blog:                 "https://blog.getbootstrap.com"
-expo:                 "https://expo.getbootstrap.com"
-jobs:                 "https://jobs.getbootstrap.com"
-themes:               "https://themes.getbootstrap.com"
+blog:                 "https://blog.marstau.com"
+expo:                 "https://expo.marstau.com"
+jobs:                 "https://jobs.marstau.com"
+themes:               "https://themes.marstau.com"
 
 download:
   source:           "https://github.com/marstau/WebDocument/archive/v4.1.1.zip"
