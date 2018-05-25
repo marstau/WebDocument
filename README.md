@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
+  <a href="http://webdocument.marstau.com/">
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
   </a>
 
@@ -14,12 +14,6 @@
     <a href="https://github.com/marstau/WebDocument/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://github.com/marstau/WebDocument/issues/new?template=feature.md&labels=feature">Request feature</a>
-    ·
-    <a href="https://themes.getbootstrap.com/">Themes</a>
-    ·
-    <a href="https://jobs.getbootstrap.com/">Jobs</a>
-    ·
-    <a href="https://blog.getbootstrap.com/">Blog</a>
   </p>
 </p>
 
