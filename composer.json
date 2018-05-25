@@ -1,5 +1,5 @@
 {
-  "name": "twbs/bootstrap",
+  "name": "marstau/WebDocument",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "keywords": [
     "css",
@@ -23,7 +23,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/twbs/bootstrap/issues"
+    "issues": "https://github.com/marstau/WebDocument/issues"
   },
   "license": "MIT",
   "extra": {

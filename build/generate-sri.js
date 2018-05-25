@@ -7,7 +7,7 @@
  *
  * Copyright 2017-2018 The Bootstrap Authors
  * Copyright 2017-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
  */
 
 'use strict'

@@ -14,7 +14,7 @@ import Util from './util'
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.1.1): index.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
