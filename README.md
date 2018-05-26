@@ -48,7 +48,10 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 git subtree push --prefix=dist origin gh-pages
 ```
 
-2. push directory `_gh_pages` to gh-pages branch.
+2. Compile project, run `npm run docs-compile`.
+
+
+3. Push sub directory `_gh_pages` to gh-pages branch.
 
 ## Copyright and license
 
