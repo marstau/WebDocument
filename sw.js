@@ -132,6 +132,46 @@ workbox.precaching.precacheAndRoute([
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
+    "url": "dist/css/bootstrap-grid.css",
+    "revision": "89fa5b0b01b7f984e0b2dde0b3c9c7d8"
+  },
+  {
+    "url": "dist/css/bootstrap-grid.min.css",
+    "revision": "f5197960751ebcea5826f32ac1088af8"
+  },
+  {
+    "url": "dist/css/bootstrap-reboot.css",
+    "revision": "ab8981193ce36f33a4e4f8ca136cff7c"
+  },
+  {
+    "url": "dist/css/bootstrap-reboot.min.css",
+    "revision": "0733dccdbe5afbe1c935fd235a3abc9d"
+  },
+  {
+    "url": "dist/css/bootstrap.css",
+    "revision": "fa3d588ec695a81ce1b9d2c62f96a0d4"
+  },
+  {
+    "url": "dist/css/bootstrap.min.css",
+    "revision": "c76ef66081c1afa18147fa6b70320856"
+  },
+  {
+    "url": "dist/js/bootstrap.bundle.js",
+    "revision": "72e09d6822db6897eba09dc2a0756216"
+  },
+  {
+    "url": "dist/js/bootstrap.bundle.min.js",
+    "revision": "d6b4e8245d0e571a461629ce49d7ce73"
+  },
+  {
+    "url": "dist/js/bootstrap.js",
+    "revision": "0ee9565d385f58edc2d8e457aba22637"
+  },
+  {
+    "url": "dist/js/bootstrap.min.js",
+    "revision": "0e48c9d52590f3c7c6896587adfd4697"
+  },
+  {
     "url": "docs/66.6/about/brand/index.html",
     "revision": "7b02b752881c923595ba45653d0b7c51"
   },
