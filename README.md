@@ -22,10 +22,8 @@
 ## Table of contents
 
 - [Running documentation locally](#running-documentation-locally)
-- [Modify to yourself project document](#modify-to-yourself-project-document)
 - [Publish to github](#publish-to-github)
 - [Copyright and license](#copyright-and-license)
-- [From](#from)
 - [Denote](#denote)
 
 
@@ -42,14 +40,6 @@ caution: if run `bundle install` occurs error, use `sudo bundle install` instead
 
 Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/home/).
 
-## Modify to yourself project document
-
-1. Replace `docs/66.6` text to your version name in global, `docs/1.0` for example, and then modify directory name `docs/66.6` last.
-2. Replace `docs_version: 66.6` to `docs_version: 1.0` in `_config.yml` .
-2. Replace `webdocument.marstau.com` text to your website `doc.abc.com` in global.
-3. Replace `marstau/WebDocument` to your project name `yourname/yourPojectDocName` in global.
-4. Replace `WebDocument` to your project name `yourPojectDocName ` in global.
-
 ## Publish to github
 
 1. Create and push to gh-pages.
@@ -65,12 +55,7 @@ git subtree push --prefix=build origin gh-pages
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 [Bootstrap Authors](https://github.com/marstau/WebDocument/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/marstau/WebDocument/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/marstau/WebDocument/blob/master/docs/LICENSE).
-
-
-## From
-
-* <https://github.com/twbs/bootstrap>
+Code and documentation copyright @2018 by marstau and Code released under the [MIT License](https://github.com/marstau/WebDocument/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/marstau/WebDocument/blob/master/docs/LICENSE).
 
 
 ## [Denote](http://webdocument.marstau.com/docs/66.6/about/denote/)
