@@ -1,7 +1,7 @@
 /*!
-  * Bootstrap v4.1.1 (https://webdocument.marstau.com/)
-  * Copyright 2011-2018 The Bootstrap Authors (https://github.com/marstau/WebDocument/graphs/contributors)
-  * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+  * Bootstrap v4.1.1 (https://getbootstrap.com/)
+  * Copyright 2011-2018 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery')) :
@@ -70,7 +70,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): util.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -203,7 +203,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): alert.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -378,7 +378,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): button.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -542,7 +542,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): carousel.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -1043,7 +1043,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): collapse.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -3921,7 +3921,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): dropdown.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -4072,7 +4072,7 @@
             }
           } // If boundary is not `scrollParent`, then set position to `static`
           // to allow the menu to "escape" the scroll parent's boundaries
-          // https://github.com/marstau/WebDocument/issues/24251
+          // https://github.com/twbs/bootstrap/issues/24251
 
 
           if (this._config.boundary !== 'scrollParent') {
@@ -4403,7 +4403,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): modal.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -4981,7 +4981,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): tooltip.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -5648,7 +5648,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): popover.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -5845,7 +5845,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): scrollspy.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -6157,7 +6157,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): tab.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
@@ -6405,7 +6405,7 @@
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v4.1.1): index.js
-   * Licensed under MIT (https://github.com/marstau/WebDocument/blob/master/LICENSE)
+   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
    * --------------------------------------------------------------------------
    */
 
