@@ -8,7 +8,7 @@
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
     <br>
-    <a href="http://webdocument.marstau.com/docs/4.1"><strong>Explore Bootstrap docs »</strong></a>
+    <a href="http://webdocument.marstau.com/docs/66.6"><strong>Explore Bootstrap docs »</strong></a>
     <br>
     <br>
     <a href="https://github.com/marstau/WebDocument/issues/new?template=bug.md">Report bug</a>
@@ -63,4 +63,4 @@ Code and documentation copyright 2011-2018 [Bootstrap Authors](https://github.co
 * <https://github.com/twbs/bootstrap>
 
 
-## [Denote](http://webdocument.marstau.com/docs/4.1/about/denote/)
+## [Denote](http://webdocument.marstau.com/docs/66.6/about/denote/)
