@@ -44,7 +44,8 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 
 ## Modify to yourself project document
 
-1. Replace `docs/66.6` text to your version name in global, `docs/1.0` for example, and then modify directory name `docs/66.6`.
+1. Replace `docs/66.6` text to your version name in global, `docs/1.0` for example, and then modify directory name `docs/66.6` last.
+2. Replace `docs_version: 66.6` to `docs_version: 1.0` in `_config.yml` .
 2. Replace `webdocument.marstau.com` text to your website `doc.abc.com` in global.
 3. Replace `marstau/WebDocument` to your project name `yourname/yourPojectDocName` in global.
 4. Replace `WebDocument` to your project name `yourPojectDocName ` in global.
@@ -54,7 +55,7 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 1. Create and push to gh-pages.
 
 ```
-git subtree push --prefix=dist origin gh-pages
+git subtree push --prefix=build origin gh-pages
 ```
 
 2. Compile project, run `npm run dist`, then run `npm run docs-compile`.
