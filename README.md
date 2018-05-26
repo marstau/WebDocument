@@ -22,6 +22,7 @@
 ## Table of contents
 
 - [Running documentation locally](#running-documentation-locally)
+- [Publish to github](#publish-to-github)
 - [Copyright and license](#copyright-and-license)
 - [From](#from)
 - [Denote](#denote)
@@ -39,6 +40,15 @@ caution: if run `bundle install` occurs error, use `sudo bundle install` instead
 
 Learn more about using Jekyll by reading its [documentation](https://jekyllrb.com/docs/home/).
 
+## Publish to github
+
+1. Create and push to gh-pages.
+
+```
+git subtree push --prefix=dist origin gh-pages
+```
+
+2. push directory `_gh_pages` to gh-pages branch.
 
 ## Copyright and license
 
